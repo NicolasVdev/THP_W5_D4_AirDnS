@@ -10,6 +10,8 @@ Creating an app that will revolutionize the daily life of dogs and customers !
 *Dont forget to check the dog's breed !
 --
 
+
+## Content
 * Creating and modeling our models
 * Managing migration to play with our tables
 
