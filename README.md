@@ -1,24 +1,29 @@
-# README
+# AirDnS (AirDogsnStroll)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-ruby.svg)](https://forthebadge.com)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### THP W5 D4
 
-Things you may want to cover:
+Learning RoR(Ruby on Rails) and our first database
+Creating an app that will revolutionize medical appointments !
 
-* Ruby version
+* Creating and modeling our models
+* Managing migration to play with our tables
 
-* System dependencies
+## Installation
 
-* Configuration
 
-* Database creation
+* 'Git clone' #cloning this repo
+* `bundle install` #installing the Ruby's gems
 
-* Database initialization
 
-* How to run the test suite
+## Usage
 
-* Services (job queues, cache servers, search engines, etc.)
+* `rails db:migrate` #put all database tables to up status
+* `rails db:seed` #generating a random database with faker's gem
+* `rails c` #turning on the console
 
-* Deployment instructions
+* Do the test (`tp Doctor.all`, `tp Patient.all`, `tp Appointment.all` (or .last)
 
-* ...
+## Requirements
+
+Ruby 3.0.0
