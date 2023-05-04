@@ -4,7 +4,8 @@
 ### THP W5 D4
 
 Learning RoR(Ruby on Rails) and our first database
-Creating an app that will revolutionize medical appointments !
+Creating an app that will revolutionize the daily life of dogs and customers !
+Dont forget to check the dog's breed !
 
 * Creating and modeling our models
 * Managing migration to play with our tables
@@ -22,7 +23,7 @@ Creating an app that will revolutionize medical appointments !
 * `rails db:seed` #generating a random database with faker's gem
 * `rails c` #turning on the console
 
-* Do the test (`tp Doctor.all`, `tp Patient.all`, `tp Appointment.all` (or .last)
+* Do the test (`tp Dogsitter.all`, `tp Dog.all`, `tp Stroll.all` (or .last)
 
 ## Requirements
 
