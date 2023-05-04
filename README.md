@@ -6,6 +6,7 @@
 Learning RoR(Ruby on Rails) and our first database
 Creating an app that will revolutionize the daily life of dogs and customers !
 Dont forget to check the dog's breed !
+--
 
 * Creating and modeling our models
 * Managing migration to play with our tables
